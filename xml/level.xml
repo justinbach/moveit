@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<level>
+	<el type='wall' xPos='5' yPos='5' />
+	<el type='wall' xPos='3' yPos='7' />
+	<el type='wall' xPos='4' yPos='2' />
+	<el type='wall' xPos='7' yPos='7' />
+	<el type='goal' xPos='9' yPos='9' />
+	<el type='powerup' xPos='1' yPos='4' strength='5' />
+	<el type='powerup' xPos='1' yPos='5' strength='4' />
+	<el type='powerup' xPos='3' yPos='4' strength='1' />
+	<el type='powerup' xPos='8' yPos='4' strength='2' />
+	<el type='powerup' xPos='6' yPos='4' strength='3' />
+	<el type='hero' xPos='1' yPos='1' />
+</level>

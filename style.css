@@ -1,0 +1,89 @@
+/*	stylesheet for moveit level editor */
+
+body {
+	font-family: Tahoma, sans-serif;
+	background-color: #888;
+	color: #222;
+}
+
+h1 {
+	text-align: center;
+	margin: 20px auto;
+}
+
+#wrapper {
+	width: 600px;
+	background-color: #DDD;
+	border:	solid 10px #222;
+	padding: 0px 0px 0px 50px;
+	margin: 30px auto;
+}
+
+#footer {
+	margin-top: 20px;
+	text-align: center;
+}
+	
+
+#wrapper table {
+	text-align: left;
+	margin-bottom: 20px;
+}
+
+#wrapper td, #wrapper th {
+	padding: 5px 40px 5px 0;
+}
+
+#wrapper {
+	padding: 20px;
+}
+
+#submitbtn {
+}
+
+a {
+	text-decoration: none;
+	color: blue;
+}
+
+a:hover {
+	border-bottom: 1px #222 dotted;
+}
+
+h2 {
+	color: blue;
+}
+
+h3 {
+	padding-left: 20px;
+}
+
+h4 {
+	padding-left: 40px;	
+}
+
+#flashwrapper {
+	border: 1px solid #222;
+	height: 400px;
+	width: 550px;
+	margin: auto;
+} 
+
+#innercontent {
+	width: 850px;
+}
+
+#newlink {
+	text-align: left;
+	margin-right: 100px;
+}
+
+#newform {
+	width: 200px;
+}
+
+#newform input {
+	text-align: right;
+	margin: 10px;
+}
+
